@@ -62,7 +62,7 @@ An AI-powered application designed to help students prepare for the IELTS exam. 
 3.  **Configure Environment Variables**:
     Create a `.env.local` file in the root directory and add your Gemini API key:
     ```bash
-    NEXT_PUBLIC_GEMINI_API_KEY=your_api_key_here
+    GOOGLE_API_KEY=your_api_key_here
     ```
 
 4.  **Run the application**:
